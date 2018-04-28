@@ -3,5 +3,6 @@ public class GitTest {
         System.out.println("new Git");
         System.out.println("网页添加");
         System.out.println("第三次提交");
+        System.out.println("新的用户提交");
     }
 }
